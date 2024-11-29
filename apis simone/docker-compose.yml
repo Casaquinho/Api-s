@@ -1,0 +1,36 @@
+services:
+  api1:
+    build: ./api1
+    container_name: post
+    ports:
+      - "3001:3001"
+    networks:
+      - microsservices-network
+
+  api2:
+    build: ./api2
+    container_name: get
+    ports:
+      - "3002:3002"
+    networks:
+      - microsservices-network
+
+  api3:
+    build: ./api3
+    container_name: put
+    ports:
+      - "3003:3003"
+    networks:
+      - microsservices-network
+
+  api4:
+    build: ./api4
+    container_name: delete
+    ports:
+      - "3004:3004"
+    networks:
+      - microsservices-network
+
+networks:
+  microsservices-network:
+    driver: bridge

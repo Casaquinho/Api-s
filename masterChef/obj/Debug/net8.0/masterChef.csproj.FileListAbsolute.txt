@@ -1,0 +1,14 @@
+/Users/u23326/Documents/masterChef/bin/Debug/net8.0/masterChef
+/Users/u23326/Documents/masterChef/bin/Debug/net8.0/masterChef.deps.json
+/Users/u23326/Documents/masterChef/bin/Debug/net8.0/masterChef.runtimeconfig.json
+/Users/u23326/Documents/masterChef/bin/Debug/net8.0/masterChef.dll
+/Users/u23326/Documents/masterChef/bin/Debug/net8.0/masterChef.pdb
+/Users/u23326/Documents/masterChef/obj/Debug/net8.0/masterChef.GeneratedMSBuildEditorConfig.editorconfig
+/Users/u23326/Documents/masterChef/obj/Debug/net8.0/masterChef.AssemblyInfoInputs.cache
+/Users/u23326/Documents/masterChef/obj/Debug/net8.0/masterChef.AssemblyInfo.cs
+/Users/u23326/Documents/masterChef/obj/Debug/net8.0/masterChef.csproj.CoreCompileInputs.cache
+/Users/u23326/Documents/masterChef/obj/Debug/net8.0/masterChef.dll
+/Users/u23326/Documents/masterChef/obj/Debug/net8.0/refint/masterChef.dll
+/Users/u23326/Documents/masterChef/obj/Debug/net8.0/masterChef.pdb
+/Users/u23326/Documents/masterChef/obj/Debug/net8.0/masterChef.genruntimeconfig.cache
+/Users/u23326/Documents/masterChef/obj/Debug/net8.0/ref/masterChef.dll
